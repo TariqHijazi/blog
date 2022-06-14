@@ -5,6 +5,9 @@
     --section-padding:60px;
     --section-background:#f6f6f6;
 }
+a{
+    text-decoration: underline;
+}
 /* End Variables */
 /* start Global Rules */
 *{
